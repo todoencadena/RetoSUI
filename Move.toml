@@ -1,0 +1,8 @@
+[package]
+name = "animal_passport"
+edition = "2024.beta"
+
+[dependencies]
+
+[addresses]
+animal_passport = "0x0"
